@@ -20,6 +20,9 @@ min-height: 100vh;
   font-size: 15px;
 
 }
+.text{
+  margin-bottom: 25px;
+}
 .Avatar h1{
   font-weight: 800;
   font-family: 'Inter-Bold',sans-serif;
@@ -54,7 +57,7 @@ min-height: 100vh;
   background-color: hsl(0, 0%, 20%);
   color: white;
   text-align: center;
-  width: 80%;
+  width: 83%;
   /* margin: 7px; */
   border-radius: 0.8rem;
   font-weight: 400;
