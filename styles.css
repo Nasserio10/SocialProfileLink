@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+.bigcontainer{
+  background-color: hsl(0, 0%, 8%);
+  display: flex;
+  align-items: center;
+  /* height: 50vh; */
+  justify-content:center;
+  height:100vh;
+  
+}
+.Avatar h2{
+  color: hsl(75, 94%, 57%);
+  font-family: 'Inter-SemiBold',sans-serif;
+  font-size: 15px;
+
+}
+.Avatar h1{
+  font-weight: 800;
+  font-family: 'Inter-Bold',sans-serif;
+  font-size: 20px;
+
+}
+.container{
+  margin: 50px auto;
+  padding: 20px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 12%);
+  border-radius: 1.3rem;
+  font-family: 'inter',sans-serif;
+  line-height: 1;
+}
+.imAvatar{
+  border-radius: 50%;
+  width: 75px;
+}
+.box{
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  text-align: center;
+  width: 80%;
+  margin: 7px;
+  border-radius: 0.8rem;
+  font-weight: 400;
+
+
+
+}
