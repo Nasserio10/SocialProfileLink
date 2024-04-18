@@ -28,7 +28,7 @@ min-height: 100vh;
 }
 .container{
   margin: 50px auto;
-  padding: 20px 30px;
+  padding: 30px 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -41,7 +41,7 @@ min-height: 100vh;
 }
 .imAvatar{
   border-radius: 50%;
-  width: 75px;
+  width: 85px;
 }
 .box-links {
     width: 100%;
